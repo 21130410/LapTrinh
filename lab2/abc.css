@@ -1,0 +1,61 @@
+body {
+    font-size: 12px;
+    color: black;
+    font-family: Tahoma, Arial, sans-serif ;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+/*#-----------id---------------*/
+#section_normal_1 {
+    height: 80px;
+    border-bottom: 5px solid #d9d9d9;
+
+}
+
+#section_normal_1 .sixteen , .columns {
+    padding-top : 18px;
+
+}
+
+#section_normal_1 .columns .alpha {
+    float: left;
+
+}
+#section_normal_1 .columns .omega {
+    float: right;
+
+}
+.omega .social_button {
+    float : right;
+    padding-left: 10px;
+
+
+
+}
+.omega .htext_style {
+    float : left;
+    padding: 10px;
+    font-weight: 600;
+    color:#adadad;
+}
+/*#section_normal_4_2 .pix_container {*/
+
+/*    float: left;*/
+/*}*/
+
+/*#section_normal_4_2 .omega {*/
+/*    float: right;*/
+/*}*/
+
+#section_normal_4_2 {
+    background-color: #333333;
+}

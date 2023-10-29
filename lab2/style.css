@@ -1,0 +1,224 @@
+body {
+    font-size: 12px;
+    font-family: Tahoma, Arial, sans-serif ;
+    padding: 0;
+    margin: 0;
+
+}
+.container{
+    width: 815px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+
+#section_normal_1 {
+    padding-top: 5px;
+    width: 815px;
+    height: 35px;
+    margin-right: auto;
+    margin-left: auto;
+    border-bottom: 2px solid #d9d9d9;
+}
+#section_normal_4_2 {
+    width: 815px;
+    height: 290px;
+    margin-right: auto;
+    margin-left: auto;
+    border-bottom: 1px solid #d9d9d9;
+    background-color: hsl(0deg 0% 20%);
+
+}
+
+#section_normal_1 .container{
+
+    width: 815px;
+    height: 35px;
+}
+#section_normal_4_2 .container{
+    width: 815px;
+    height: 290px;
+
+}
+#section_normal_4_2 .container .sixteen {
+    width: 815px;
+    height: 290px;
+
+}
+#section_normal_6 .container,.envato_unbounce  {
+    margin-left: auto;
+    margin-right: auto;
+    width: 815px;
+    height: 168px;
+   background-color: hsl(0deg 0% 93.33%);
+    padding-top: -15px;
+
+}
+
+
+.one-third{
+    width: 135px;
+    height: 35px;
+    float: left;
+}
+.two-thirds{
+    width: 240px;
+    height: 35px;
+    float: right;
+}
+
+
+.social_button{
+    float: right;
+    height: 32px;
+    width: 32px;
+    padding-left: 5px;
+
+}
+.htext_style {
+    color: #adadad;
+    padding-top: 8px;
+    height: 35px;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+
+}
+.pix_container{
+    float: left;
+    padding-left: 160px;
+    padding-top: 35px;
+    height: 220px;
+    width: 235px;
+
+
+}
+.img_style{
+
+    height: 220px;
+    width: 235px;
+}
+
+ .container .sixteen .eight.omega {
+    height: 290px;
+    width: 280px;
+    float: right;
+     margin-right: 120px;
+
+
+}
+span.blue_text {
+    position: relative;
+    top: 37px; /* Di chuyển lên 10px từ vị trí ban đầu */
+     /* Di chuyển sang trái 20px từ vị trí ban đầu
+
+    position: Để kiểm soát vị trí của phần tử bên trong thẻ <span>,
+    bạn có thể sử dụng thuộc tính position. Có một số giá trị bạn có thể sử dụng:
+
+relative: Cho phép bạn điều chỉnh vị trí phần tử bên trong dựa trên vị trí ban đầu của nó.
+absolute: Cho phép bạn đặt vị trí tuyệt đối cho phần tử bên trong thẻ <span>,
+ dựa trên phần tử cha hoặc phần tử gần nhất có thuộc tính position: relative;.*/
+
+    color: deepskyblue;
+    font-weight: bold;
+
+    background-color: transparent;
+}
+p.big_title{
+    position: relative;
+    top: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 26px;
+}
+p.light_gray{
+    color: rgb(131 131 131);
+    position: relative;
+    bottom: 15px;
+font-size: 10px;
+    text-align: left;
+}
+
+a.pix_button{
+    display: inline-block;
+    font-size: 10px;
+    padding: 8px 8px; /* Khoảng cách giữa văn bản và biên nút */
+    background-color: #2dc0e8; /* Màu nền xanh */
+    color: #fff; /* Màu chữ trắng */
+    border: 1px solid #2dc0e8; /* Đường viền màu xanh */
+    border-radius: 4px; /* Bo góc để làm cho nút tròn hơn */
+    text-align: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight:bold ;
+    border-bottom: 2px solid #2a6a7b;
+    position: relative;
+    bottom: 10px;
+    transition: background-color 0.3s, color 0.3s; /* Thêm chuyển tiếp cho màu nền và màu chữ */
+}
+a.pix_button:active {
+    background-color: #033d72; /* Thay đổi màu nền khi click */
+    color: #fff; /* Thay đổi màu chữ khi click */
+    position: relative;
+    bottom: 8px; /* Thay đổi vị trí khi click */
+}
+h3.L1_style, span.pix_text {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding-top: 25px;
+    color: hsl(0deg 0% 55.69%);
+}
+h5.L2_style{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-weight: normal;
+    color: #adadad;
+    padding-top: 7px;
+}
+.box_2 .pix_builder_bg{
+    width: 200px;
+    height: 200px;
+
+}
+ .container .stbox .alpha{
+    width: 500px;
+    height: 500px;
+}
+ .logo_style,.b_style{
+     width: 32px;
+     height: 32px;
+ }
+ .b_style{
+     float: left;
+ }
+ .box_1 .pix_builder_bg{
+     width: 250px;
+     height: 65px;
+
+ }
+ .txt_style{
+     width: 185px;
+     height: 30px;
+     float: right;
+
+ }
+ p.txt{
+     margin: 0;
+     font-size: 8px;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
