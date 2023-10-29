@@ -1,4 +1,5 @@
 .background{
+<<<<<<< HEAD
    
     width: 100%;
     height: 100%;
@@ -20,9 +21,24 @@
    position: relative;
    left: 10px;
 }
+=======
+    background-color: aquamarine;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+>>>>>>> e1ceb246f1adaa2d06598bf52d007737cb684d31
 .bt1{background-color: aqua;}
 .bt2{background-color: aquamarine;}
 .bt3{background-color: green;}
 .bt4{background-color: pink;}
+<<<<<<< HEAD
 .bt5{background-color: blue;}
 .bt6{background-color: red;}
+=======
+.bt5{background-color: blue;}
+>>>>>>> e1ceb246f1adaa2d06598bf52d007737cb684d31
